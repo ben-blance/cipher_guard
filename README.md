@@ -4,7 +4,7 @@ Cipher Guard is a lightweight Flutter application designed for message encryptio
 
 ![WhatsApp Image 2023-10-29 at 1 10 23 PM](https://github.com/ben-blance/cipher_guard/assets/147723363/68afcf0b-1c78-4631-99a4-7c6f9216395d)
 
-To download the application go to: build\app\outputs\flutter-apk\app-release.apk(18.3 MB)
+To download the application go to: app-release.apk(18.3 MB)
 
 Key Features:
 Modern dark theme for a sleek look.

@@ -4,13 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Cipher Guard is a lightweight Flutter application designed for message encryption and decryption. It provides a secure and user-friendly solution for safeguarding your sensitive information. With Cipher Guard, you can easily encrypt your messages, making them unreadable to unauthorized users. When it's time to reveal your hidden message, decryption is just a tap away.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Key Features:
+Modern dark theme for a sleek look.
+Simple message and key input.
+One-tap encryption and decryption.
+Copy encrypted or decrypted text to the clipboard.
+Keep your messages secure and private.
